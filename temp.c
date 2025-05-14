@@ -8,7 +8,7 @@ int main()
     {
         printf("your outfit is jacket");
     }
-    else if(temp<10 && temp>20)
+    else if(temp>=10 && temp<=20)
     {
         printf("your outfit is sweater");
     }
